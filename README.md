@@ -27,20 +27,24 @@ I'm a developer based out of the DC Metro Area. My expertise lies in web develop
 <img alt="css" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
 <img alt='NextJS' src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white"/>
 <img alt="Firebase" src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white" />
+<img alt="AWS" src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"/>  
 </div>
 
 ## Currently Learning
 
 <div style="display: flex; justify-content: center;">
-<!-- <img alt="Mongo DB" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/> -->
-<img alt="AWS" src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"/>  
+<img alt="Mongo DB" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
 </div>
 
 ## My Favorite Projects
 
+### [Grizz](https://getgrizz.com/)
+
+Lead generation SaaS platform to expedite sales prospecting through refined job listing searches, cutting prospecting process by over 90%
+
 ### [Quick Type](https://quick-type.netlify.app/)
 
-Speed typing site with over 2500+ tests to date
+Speed typing site with over 5000+ tests to date
 
 ### [Plants & Co](https://plants-and.co/)
 
@@ -48,6 +52,7 @@ Collaborative project of E-commerce store demo with Stripe integration
 
 ## Education
 
+- **Certified Cloud Practitioner** from Amazon Web Services 🐢
 - **Bachelor of Science in Information Systems** from The University of Maryland 🐢
 - **Full Stack Web Development Certificate** from Fullstack Academy
 
