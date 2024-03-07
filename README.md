@@ -33,7 +33,8 @@ I'm a developer based out of the DC Metro Area. My expertise lies in web develop
 ## Currently Learning
 
 <div style="display: flex; justify-content: center;">
-<img alt="Mongo DB" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img alt="C#" src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white"/>
+  
 </div>
 
 ## My Favorite Projects
