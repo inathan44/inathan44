@@ -5,8 +5,8 @@
 I'm a developer based out of the DC Metro Area. My expertise lies in web development, data analysis, and UX. I enjoy working with cutting-edge technologies and collaborating on exciting projects.
 
 <div style="display: flex;">
-<img width='47%' src="https://github-readme-stats.vercel.app/api?username=inathan44&show_icons=true&theme=radical"/>
-<img width='47%' src="https://github-readme-stats.vercel.app/api/top-langs/?username=inathan44&layout=compact"/>
+<img width='47%' src="https://github-readme-stats.vercel.app/api?username=inathan44&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" alt="grade and stats of github activity"/>
+<img width='47%' src="https://github-readme-stats.vercel.app/api/top-langs/?username=inathan44&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" alt="Stats of most used languages"/>
 </div>
 
 ## Skills
