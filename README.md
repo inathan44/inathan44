@@ -53,7 +53,7 @@ Collaborative project of E-commerce store demo with Stripe integration
 
 ## Education
 
-- **Certified Cloud Practitioner** from Amazon Web Services 🐢
+- **Certified Cloud Practitioner** from Amazon Web Services
 - **Bachelor of Science in Information Systems** from The University of Maryland 🐢
 - **Full Stack Web Development Certificate** from Fullstack Academy
 
